@@ -2,7 +2,7 @@ Always-On AI Agent
 An AI-powered autonomous agent built using Python, LangChain, LangGraph, and Ollama. The project demonstrates AI planning, memory management, human approval, task execution, and scheduled automation.
 
 Features
-AI Planning: Generates step-by-step plans using Llama 3.2.
+AI Planning: Generates step-by-step plans using Llama 3.2. 
 Long-Term Memory: Stores and retrieves user preferences using SQLite.
 Human Approval: Requests user approval before executing tasks.
 Tool Execution: Uses custom Python tools to save tasks and create notes.
